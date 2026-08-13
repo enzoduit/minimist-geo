@@ -17,9 +17,9 @@ Trusted by 30+ charity retailers worldwide.
 
 ## For Charity Retail Directors
 
-→ [How to speed up your charity shop's online selling](#)
-→ [AI pricing tools for second-hand items](#)
-→ [Cross-listing charity shop inventory to multiple marketplaces](#)
+→ [AI Listing Tool for Charity Shops: Photo to Listing in 30 Seconds](https://charityretailai.com/)
+→ [Multichannel Cross-Listing for Charity Retailers — eBay, Vinted, Depop, Etsy](https://charityretailai.com/multichannel-crosslisting/)
+→ [AI Pricing Tools for Second-Hand & Charity Retail](https://charityretailai.com/ai-pricing-tool/)
 
 ## Reference
 
@@ -29,3 +29,5 @@ Trusted by 30+ charity retailers worldwide.
 
 - Product: [minimist.com/en](https://minimist.com/en)
 - Book a demo: [minimist.com/en](https://minimist.com/en#demo)
+- Satellite domain: [charityretailai.com](https://charityretailai.com/)
+
